@@ -1,0 +1,11 @@
+C:\Users\karansingh04\Documents\DockerTraining\ClothRetailApp\ClothStore\bin\Release\net6.0\publish\ClothStore.exe
+C:\Users\karansingh04\Documents\DockerTraining\ClothRetailApp\ClothStore\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\karansingh04\Documents\DockerTraining\ClothRetailApp\ClothStore\bin\Release\net6.0\publish\appsettings.json
+C:\Users\karansingh04\Documents\DockerTraining\ClothRetailApp\ClothStore\bin\Release\net6.0\publish\ClothStore.dll
+C:\Users\karansingh04\Documents\DockerTraining\ClothRetailApp\ClothStore\bin\Release\net6.0\publish\ClothStore.deps.json
+C:\Users\karansingh04\Documents\DockerTraining\ClothRetailApp\ClothStore\bin\Release\net6.0\publish\ClothStore.runtimeconfig.json
+C:\Users\karansingh04\Documents\DockerTraining\ClothRetailApp\ClothStore\bin\Release\net6.0\publish\ClothStore.pdb
+C:\Users\karansingh04\Documents\DockerTraining\ClothRetailApp\ClothStore\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\karansingh04\Documents\DockerTraining\ClothRetailApp\ClothStore\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\karansingh04\Documents\DockerTraining\ClothRetailApp\ClothStore\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\karansingh04\Documents\DockerTraining\ClothRetailApp\ClothStore\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
