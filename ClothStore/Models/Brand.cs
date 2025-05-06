@@ -9,7 +9,7 @@ namespace ClothStore.Models
         {
             ClothStocks = new HashSet<ClothStock>();
         }
-
+        
         public int Id { get; set; }
         public string? BrandName { get; set; }
 

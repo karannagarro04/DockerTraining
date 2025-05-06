@@ -2,8 +2,8 @@ using System;
 
 namespace ClothStore.Repository;
 
-public interface IRepository<T> where T : class
+public interface IRepository<T> : IReadOnlyRepository<T>, IWriteOnlyRepository<T> where T : class
 {
-    // Define methods for CRUD operations
-    Task<bool> SaveChanges();
+    // Here you can add any additional methods that are common to both read and write operations
+    
 }
